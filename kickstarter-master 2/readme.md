@@ -1,6 +1,6 @@
 # Kickstarter
 
-Download projektet som ZIP-fil
+Download projektet som ZIP-fil hej dette er en projekt lavet af mathias 
 
 
 ## Kør "setup" kommandoen her under hvis det er første gang du åbner projektet
